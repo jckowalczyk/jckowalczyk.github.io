@@ -1,6 +1,6 @@
-# Jakub Kowalczyk Portfolio 
+# Portfolio 
 
-Hi, welcome to my portfolio
+Github pages for building a portfolio for my work
 
 
 
