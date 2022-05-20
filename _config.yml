@@ -3,9 +3,7 @@ logo: "/images/IMG_4438.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Portfolio
   <br><br>
-  Projects
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jakub-kowalczyk-3b9165178/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BTn%2BQbZk7RLO05Emmo1gbcg%3D%3D">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 
