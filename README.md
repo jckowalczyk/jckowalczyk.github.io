@@ -1,5 +1,1 @@
-# Overview
-
-Human intracortical brain-computer interfaces (BCIs) use features of single unit recordings from implanted electrode arrays to decode intended behaviours of users and output this through external devices. Stimulation through the same electrode arrays can be used to evoke neural activity and behaviour. Together recording and stimulation can be used for a closed-loop BCI. To develop BCIs we implant in cognitive and sensorimotor cortical areas.  
-
-In my PhD, I will investigate the neural mechanisms underlying human sensorimotor and cognitive function and explore how neural signals could be decoded and modulated by closed-loop BCIs. This work will impact both basic science and clinical translation.
+This is the academic website for Jakub Kowalczyk and is based upon the GitHub Pages template for academic websites, academicpages.github.io. The orginal template was forked (then detached) by Stuart Geiger from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
